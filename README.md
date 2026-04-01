@@ -126,10 +126,10 @@ This project applies concepts from three AP courses I'm taking at Mill Creek Hig
 
 All Around Services was founded in January 2025 and operates across 15+ cities in the Atlanta metro area. Services include moving, pressure washing, auto and boat detailing, landscaping, and specialty labor. The company also runs AAS Cares, a pro-bono initiative that has contributed $1,250 in donated labor value to elderly and underserved community members.
 
-- **Website:** [allaroundservice.com](https://allaroundservice.com)
+- **Website:** [allaroundservice.com](https://allaroundserviceatl.com)
 - **Facebook:** [All Around Services](https://www.facebook.com/profile.php?id=61588386760982)
 
-Full business documentation, financial model, and verified job history available in the password-protected Founder Vault at [allaroundservice.com](https://allaroundservice.com).
+Full business documentation, financial model, and verified job history available in the password-protected Founder Vault at [allaroundserviceatl.com](https://allaroundserviceatl.com).
 
 ## Author
 
@@ -138,5 +138,6 @@ Full business documentation, financial model, and verified job history available
 - Junior at Mill Creek High School (Class of 2027)
 - 4.1 GPA | 12 AP Courses
 - Varsity Football — All-Region Honorable Mention
+
 https://www.linkedin.com/in/cameron-camarotti-6997152b0/
 - [All Around Services](https://allaroundservice.com)
