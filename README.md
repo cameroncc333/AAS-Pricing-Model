@@ -1,6 +1,6 @@
 # AAS Pricing Model — 8-Variable Cost Function with Monte Carlo Simulation
 
-A Python implementation of the multivariable cost function I built for [All Around Services](https://allaroundservice.com), a home services company I founded in January 2025. The model takes eight real-world business inputs and outputs an optimized price for any service job. It has been back-tested against all 44 jobs completed to date, generating $14,595 in revenue at a 93.7% job-level margin.
+A Python implementation of the multivariable cost function I built for [All Around Services](https://allaroundserviceatl.com), a home services company I founded in January 2025. The model takes eight real-world business inputs and outputs an optimized price for any service job. It has been back-tested against all 44 jobs completed to date, generating $14,595 in revenue at a 93.7% job-level margin.
 
 ## The Problem
 
